@@ -702,6 +702,3 @@ The machine learning prediction should **not be considered a medical diagnosis**
 
 **Kammineni Venkata Manasa**
 
----
-
-tical experience with **Pandas, Scikit-learn, Matplotlib, Seaborn, and Joblib** while demonstrating a complete machine learning classification workflow.
